@@ -1,6 +1,6 @@
 def main():
     #write your code below this line
-    num = int(input('Enter number:'))
+    num = int(input('Give speed:'))
     
     if num > 70:
         print('Speeding ticket!')
